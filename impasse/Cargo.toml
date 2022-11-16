@@ -1,0 +1,10 @@
+[package]
+name = "impasse"
+version = "0.1.0"
+edition = "2021"
+authors = ["Philip Bollen"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+game_engine = { path = "../game_engine" }

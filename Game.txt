@@ -1,0 +1,411 @@
+O: Normal
+G7 - from 2 to 0
+C3 - from 0 to 2
+
+
+X: Normal
+E7 - from -1 to 0
+A3 - from 0 to -1
+
+
+O: Transpose
+D2 - from 1 to 2
+C3 - from 2 to 1
+
+
+X: Normal
+A7 - from -1 to 0
+D4 - from 0 to -1
+
+
+O: Normal
+C7 - from 2 to 0
+G3 - from 0 to 2
+
+
+X: Transpose
+A3 - from -1 to -2
+B2 - from -2 to -1
+
+
+O: Normal
+B8 - from 2 to 0
+F4 - from 0 to 2
+
+
+X: Normal
+A3 - from -2 to 0
+C5 - from 0 to -2
+
+
+O: Normal
+F8 - from 2 to 0
+D6 - from 0 to 2
+
+
+X: Normal
+F2 - from -2 to 0
+E3 - from 0 to -2
+
+
+O: Normal
+G3 - from 2 to 0
+F2 - from 0 to 2
+
+
+X: Normal
+C5 - from -2 to 0
+B6 - from 0 to -2
+
+
+O: TransposeBearOff
+D2 - from 2 to 1
+
+
+X: Normal
+D8 - from -1 to 0
+E7 - from 0 to -1
+
+
+O: Normal
+D6 - from 2 to 0
+A3 - from 0 to 2
+
+
+X: Normal
+H8 - from -1 to 0
+G7 - from 0 to -1
+
+
+O: Normal
+C3 - from 1 to 0
+A5 - from 0 to 1
+
+
+X: Normal
+B6 - from -2 to 0
+C7 - from 0 to -2
+
+
+O: Normal
+D2 - from 1 to 0
+B4 - from 0 to 1
+
+
+X: Normal
+G7 - from -1 to 0
+E5 - from 0 to -1
+
+
+O: Normal
+B4 - from 1 to 0
+D6 - from 0 to 1
+
+
+X: TransposeCrown
+B2 - from -1 to -2
+D4 - from -1 to 0
+
+
+O: TransposeBearOff
+F2 - from 2 to 1
+
+
+X: Normal
+E5 - from -1 to 0
+D4 - from 0 to -1
+
+
+O: Normal
+F4 - from 2 to 0
+G3 - from 0 to 2
+
+
+X: Normal
+E3 - from -2 to 0
+G5 - from 0 to -2
+
+
+O: Transpose
+F2 - from 1 to 2
+G3 - from 2 to 1
+
+
+X: BearOff
+C7 - from -2 to 0
+D8 - from 0 to -1
+
+
+O: Normal
+E1 - from 1 to 0
+B4 - from 0 to 1
+
+
+X: Normal
+C1 - from -2 to 0
+E3 - from 0 to -2
+
+
+O: Normal
+G3 - from 1 to 0
+E5 - from 0 to 1
+
+
+X: Normal
+D8 - from -1 to 0
+C7 - from 0 to -1
+
+
+O: Crown
+E5 - from 1 to 0
+H8 - from 0 to 2
+A1 - from 1 to 0
+
+
+X: Normal
+E7 - from -1 to 0
+F6 - from 0 to -1
+
+
+O: Normal
+H2 - from 1 to 0
+E5 - from 0 to 1
+
+
+X: Transpose
+D4 - from -1 to -2
+E3 - from -2 to -1
+
+
+O: BearOff
+F2 - from 2 to 0
+E1 - from 0 to 1
+
+
+X: Normal
+E3 - from -1 to 0
+D2 - from 0 to -1
+
+
+O: Crown
+D6 - from 1 to 0
+F8 - from 0 to 2
+E1 - from 1 to 0
+
+
+X: Normal
+C7 - from -1 to 0
+B6 - from 0 to -1
+
+
+O: Normal
+F8 - from 2 to 0
+C5 - from 0 to 2
+
+
+X: Crown
+D2 - from -1 to 0
+E1 - from 0 to -2
+F6 - from -1 to 0
+
+
+O: Normal
+H8 - from 2 to 0
+F6 - from 0 to 2
+
+
+X: Normal
+E1 - from -2 to 0
+H4 - from 0 to -2
+
+
+O: Transpose
+B4 - from 1 to 2
+C5 - from 2 to 1
+
+
+X: Normal
+B2 - from -2 to 0
+C3 - from 0 to -2
+
+
+O: BearOff
+A3 - from 2 to 0
+C1 - from 0 to 1
+
+
+X: Normal
+G1 - from -2 to 0
+H2 - from 0 to -2
+
+
+O: Crown
+C5 - from 1 to 0
+F8 - from 0 to 2
+C1 - from 1 to 0
+
+
+X: Normal
+D4 - from -2 to 0
+C5 - from 0 to -2
+
+
+O: Normal
+B4 - from 2 to 0
+A3 - from 0 to 2
+
+
+X: Normal
+C3 - from -2 to 0
+B4 - from 0 to -2
+
+
+O: Transpose
+E5 - from 1 to 2
+F6 - from 2 to 1
+
+
+X: Normal
+C5 - from -2 to 0
+E7 - from 0 to -2
+
+
+O: BearOff
+A3 - from 2 to 0
+C1 - from 0 to 1
+
+
+X: BearOff
+E7 - from -2 to 0
+D8 - from 0 to -1
+
+
+O: Normal
+F8 - from 2 to 0
+C5 - from 0 to 2
+
+
+X: Normal
+D8 - from -1 to 0
+C7 - from 0 to -1
+
+
+O: BearOff
+E5 - from 2 to 0
+A1 - from 0 to 1
+
+
+X: Normal
+C7 - from -1 to 0
+G3 - from 0 to -1
+
+
+O: Crown
+F6 - from 1 to 0
+H8 - from 0 to 2
+A1 - from 1 to 0
+
+
+X: BearOff
+G5 - from -2 to 0
+D8 - from 0 to -1
+
+
+O: BearOff
+H8 - from 2 to 0
+A1 - from 0 to 1
+
+
+X: Normal
+D8 - from -1 to 0
+E7 - from 0 to -1
+
+
+O: Crown
+A1 - from 1 to 0
+H8 - from 0 to 2
+C1 - from 1 to 0
+
+
+X: Crown
+G3 - from -1 to 0
+E1 - from 0 to -2
+B6 - from -1 to 0
+
+
+O: BearOff
+H8 - from 2 to 0
+A1 - from 0 to 1
+
+
+X: Normal
+H2 - from -2 to 0
+D6 - from 0 to -2
+
+
+O: BearOff
+C5 - from 2 to 0
+G1 - from 0 to 1
+
+
+X: Normal
+E7 - from -1 to 0
+G5 - from 0 to -1
+
+
+O: Crown
+A1 - from 1 to 0
+H8 - from 0 to 2
+G1 - from 1 to 0
+
+
+X: Normal
+G5 - from -1 to 0
+C1 - from 0 to -1
+
+
+O: BearOff
+H8 - from 2 to 0
+A1 - from 0 to 1
+
+
+X: Normal
+H4 - from -2 to 0
+G5 - from 0 to -2
+
+
+O: Crown
+A1 - from 1 to 0
+H8 - from 0 to 2
+A5 - from 1 to 0
+
+
+X: Normal
+D6 - from -2 to 0
+E7 - from 0 to -2
+
+
+O: BearOff
+H8 - from 2 to 0
+A1 - from 0 to 1
+
+
+X: Normal
+E1 - from -2 to 0
+G3 - from 0 to -2
+
+
+O: Normal
+A1 - from 1 to 0
+H8 - from 0 to 1
+
+
+X: Normal
+B4 - from -2 to 0
+C5 - from 0 to -2
+
+
+O: Impasse
+H8 - from 1 to 0
+
+

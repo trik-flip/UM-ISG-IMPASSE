@@ -1,0 +1,16 @@
+[workspace]
+members = ["game_engine", "impasse"]
+exclude = ["playground"]
+
+[profile.release]
+lto = "fat"
+panic = "abort"
+strip = "symbols"
+codegen-units = 1
+[profile.release.build-override]
+codegen-units = 1
+opt-level = 3
+
+[profile.small]
+opt-level = "s"
+inherits = "release"
